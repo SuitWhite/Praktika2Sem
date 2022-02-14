@@ -10,6 +10,7 @@ namespace Praktika
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Cool");
         }
     }
 }
